@@ -1,0 +1,21 @@
+img {
+    border: 2px solid;
+    border-color: black;
+    border-radius: 20%;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    background-color: rgb(230, 255, 247);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+li {
+    padding-bottom: 10px;
+}
